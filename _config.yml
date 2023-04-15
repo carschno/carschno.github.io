@@ -50,23 +50,24 @@ about_profile_image: images/Portretten_eScienceCenter_2022_fotoAnneliesVerhelst_
 about_content: | # this will include new lines to allow paragraphs
   Hi,
   my name is Carsten.
-  I am an experienced researcher and software engineer with a focus on <mark>Natural Language Processing</mark>.
-  
-  Foci and skills:
-  - <mark>Information Retrieval</mark>, Search, Recommendations
-  - <mark>Language Modelling</mark> and Topic Modelling
-  - Machine Learning and <mark>Deep Learning</mark>
-  - <mark>Software Engineering</mark>
-    - <mark>Python</mark>, Java, Scala
-    - Continuous Integration and Deployment (CI/CD), Deployment, DevOps (AWS, Kubernetes etc.)
-    - Agile Software Development
+  I have been a research software engineer for many years in academic institutions and industry.
+  That means I bring state-of-the-art technology from <mark>Natural Language Processing</mark>, Machine Learning, and <mark>Deep Learning</mark>
+  to practical use.
+  This implies developing software by highest standards, tailored to the needs of users and other stakeholders,
+  including requirements analysis, implementation, and deployment.
+
+  - Defining problems and possible solutions in close communication
+  - Agile development approach
+  - Advanced <mark>Artificial Intelligence</mark> solutions, scientifically grounded
+  - Build what is needed, re-use what exists
+
   
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Netherlands eScience Center
+        title: Netherlands eScience Center <img src="images/esciencecenter.png" alt="UKP Lab Logo" height=30>
         link: www.esciencecenter.nl
         # link_text: boringcompany.com
         sub_title: Research Software Engineer Social Sciences & Humanities
@@ -74,32 +75,38 @@ content:
         quote: >
           Academic research, powered by pioneering software
         description: | # this will include new lines to allow paragraphs
-            Lead engineer in these projects:
-            - [Semantics of Sustainability](https://research-software-directory.org/projects/the-semantics-of-sustainability)
-            - [Leveraging AI for HTR post-correction](https://research-software-directory.org/projects/lahter), with the [Globalise project](https://globalise.huygens.knaw.nl/)
+            Lead engineer in research projects:
+            - [Semantics of Sustainability](https://research-software-directory.org/projects/the-semantics-of-sustainability):
+            development and application of <mark>large language models (LLMs)</mark>, incorporating temporal information
+            - [Leveraging AI for HTR post-correction](https://research-software-directory.org/projects/lahter):
+            development and application of NLP and machine learning for improving digitized handwritten texts , within the [Globalise project](https://globalise.huygens.knaw.nl/).
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
-        title: UKP Lab, TU Darmstadt
+        title: UKP Lab, TU Darmstadt <img src="https://www.informatik.tu-darmstadt.de/media/ukp/logo/ukp_logo.png" alt="UKP Lab Logo" height=50>
+
         quote: >
-          Ubiquituous Knowledge Processing Lab
-        link: https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp
+          Ubiquituous Knowledge Processing Lab, Technical University Darmstadt
+        link: https://www.informatik.tu-darmstadt.de/ukp/
         caption: 2014 - 2016
         sub_title: Research Software Engineer, PhD candidate
         description:
 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+
       - layout: left
-        title: University of Edinburgh 
+        title: University of Edinburgh <img src="https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png" alt="University of Edinburgh Logo" height=50>
         caption: 2009 - 2010
         sub_title: MSc Speech & Language Processing
         link: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=290
+        link_text: www.ed.ac.uk
         # quote: >
         description: | # this will include new lines to allow paragraphs          
           This programme combines elements of linguistics, artificial intelligence, computer science, and engineering and is taught by leading researchers from Linguistics & English Language, the Centre for Speech Technology Research, and the School of Informatics.
 
-          ![Logo University of Edinburgh](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Edinburgh_ceremonial_roundel.svg/1920px-University_of_Edinburgh_ceremonial_roundel.svg.png)
 
   - title: A Little More About Me
     layout: text
@@ -110,8 +117,6 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
