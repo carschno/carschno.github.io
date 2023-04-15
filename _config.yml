@@ -84,7 +84,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Edinburgh
+        title: University of Edinburgh ![Logo University of Edinburgh](https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png)
         caption: 2009 - 2010
         sub_title: MSc Speech & Language Processing
         # quote: >
