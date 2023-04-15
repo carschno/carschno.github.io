@@ -32,7 +32,7 @@ orcid_username: 0000-0001-9139-1577
 # Additional icon links
 additional_links:
 - title: NL eScience Center
-  # icon: fas fa-globe
+  icon: eScience(images/esciencecenter.png)
   url: https://www.esciencecenter.nl/team/carsten-schnober/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -50,9 +50,9 @@ about_profile_image: images/Portretten_eScienceCenter_2022_fotoAnneliesVerhelst_
 about_content: | # this will include new lines to allow paragraphs
   Hi,
   my name is Carsten.
-  I am an experienced researcher and software engineer with a focus on <mark>Natural Language Processing</mark>, as well as <mark>machine learning<mark> and <mark>deep learning<mark>.
-  My engineering focuses on building applications in <mark>information retrieval<mark> and search, recommender systems, and related software project.
-  My research focuses on <mark>language modeling<mark>, <mark>topic modelling<mark>, and efficient implementations thereof.
+  I am an experienced researcher and software engineer with a focus on <mark>Natural Language Processing</mark>, as well as <mark>machine learning</mark> and <mark>deep learning</mark>.
+  My engineering focuses on building applications in <mark>information retrieval</mark> and search, recommender systems, and related software project.
+  My research focuses on <mark>language modeling</mark>, <mark>topic modelling</mark>, and efficient applications for processing language and other data.
   
 content:
   - title: Projects # Title for the section
