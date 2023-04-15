@@ -50,9 +50,17 @@ about_profile_image: images/Portretten_eScienceCenter_2022_fotoAnneliesVerhelst_
 about_content: | # this will include new lines to allow paragraphs
   Hi,
   my name is Carsten.
-  I am an experienced researcher and software engineer with a focus on <mark>Natural Language Processing</mark>, as well as <mark>machine learning</mark> and <mark>deep learning</mark>.
-  My engineering focuses on building applications in <mark>information retrieval</mark> and search, recommender systems, and related software project.
-  My research focuses on <mark>language modeling</mark>, <mark>topic modelling</mark>, and efficient applications for processing language and other data.
+  I am an experienced researcher and software engineer with a focus on <mark>Natural Language Processing</mark>.
+  
+  Foci and skills:
+  - <mark>Information Retrieval</mark>, Search, Recommendations
+  - <mark>Language Modelling</mark> and Topic Modelling
+  - Machine Learning and <mark>Deep Learning</mark>
+  - Software Engineering
+    - Python, Java, Scala
+    - Requirments Analysis
+    - Agile Software Development
+    - Continuous Integration and Deployment (CI/CD), Deployment, DevOps (AWS, Kubernetes etc.)
   
 content:
   - title: Experience # Title for the section
@@ -62,6 +70,7 @@ content:
         title: Netherlands eScience Center
         link: www.esciencecenter.nl
         # link_text: boringcompany.com
+        
         sub_title: Research Software Engineer Social Sciences & Humanities
         caption: October 2022 - Present
         quote: >
