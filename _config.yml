@@ -83,7 +83,8 @@ content:
     content:
       - layout: left
         title: UKP Lab, TU Darmstadt
-        quote: > Ubiquituous Knowledge Processing Lab
+        quote: >
+          Ubiquituous Knowledge Processing Lab
         link: https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp
         caption: 2014 - 2016
         sub_title: Research Software Engineer, PhD candidate
