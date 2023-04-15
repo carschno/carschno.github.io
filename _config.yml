@@ -82,14 +82,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: UKP Lab, TU Darmstadt
+        quote: > Ubiquituous Knowledge Processing Lab
+        link: https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp
+        caption: 2014 - 2016
+        sub_title: Research Software Engineer, PhD candidate
+        description:
+
+      - layout: left
         title: University of Edinburgh 
         caption: 2009 - 2010
         sub_title: MSc Speech & Language Processing
+        link: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=290
         # quote: >
-        description: | # this will include new lines to allow paragraphs
-          ![Logo University of Edinburgh](https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png)
-          
+        description: | # this will include new lines to allow paragraphs          
           This programme combines elements of linguistics, artificial intelligence, computer science, and engineering and is taught by leading researchers from Linguistics & English Language, the Centre for Speech Technology Research, and the School of Informatics.
+
+          ![Logo University of Edinburgh](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Edinburgh_ceremonial_roundel.svg/1920px-University_of_Edinburgh_ceremonial_roundel.svg.png)
 
   - title: A Little More About Me
     layout: text
