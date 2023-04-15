@@ -56,11 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   - <mark>Information Retrieval</mark>, Search, Recommendations
   - <mark>Language Modelling</mark> and Topic Modelling
   - Machine Learning and <mark>Deep Learning</mark>
-  - Software Engineering
-    - Python, Java, Scala
-    - Requirments Analysis
-    - Agile Software Development
+  - <mark>Software Engineering</mark>
+    - <mark>Python</mark>, Java, Scala
     - Continuous Integration and Deployment (CI/CD), Deployment, DevOps (AWS, Kubernetes etc.)
+    - Agile Software Development
   
 content:
   - title: Experience # Title for the section
@@ -70,7 +69,6 @@ content:
         title: Netherlands eScience Center
         link: www.esciencecenter.nl
         # link_text: boringcompany.com
-        
         sub_title: Research Software Engineer Social Sciences & Humanities
         caption: October 2022 - Present
         quote: >
@@ -84,11 +82,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Edinburgh ![Logo University of Edinburgh](https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png)
+        title: University of Edinburgh 
         caption: 2009 - 2010
         sub_title: MSc Speech & Language Processing
         # quote: >
         description: | # this will include new lines to allow paragraphs
+          ![Logo University of Edinburgh](https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png)
+          
           This programme combines elements of linguistics, artificial intelligence, computer science, and engineering and is taught by leading researchers from Linguistics & English Language, the Centre for Speech Technology Research, and the School of Informatics.
 
   - title: A Little More About Me
