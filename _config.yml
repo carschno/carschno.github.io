@@ -60,6 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Agile development approach
   - Advanced <mark>Artificial Intelligence</mark> solutions, scientifically grounded
   - Build what is needed, re-use what exists
+  - Cloud and system engineering (AWS, Linux etc.)
 
   
 content:
@@ -114,6 +115,24 @@ content:
           - Architecture, research, development for a (neural) search and recommendations platform
           - Service-based backend design and development, DevOps/MLOps
           - Student intern supervision
+
+
+      - layout: left
+        title: <img src="https://textkernel.careers/wp-content/themes/work-at-textkernel/images/textkernel_logo_new.png" alt="Textkernel Logo" height=30 title="Textkernel">
+        link: https://www.textkernel.com/
+        # link_text: boringcompany.com
+        sub_title: Lead NLP Research Software Engineer
+        caption: January 2017 - December 2019
+        quote: >
+          Machine Intelligence Connecting People and Jobs
+
+        description: | # this will include new lines to allow paragraphs
+          In my first job outside the world of academic research, I learned to handle time constraints, team management, and requirements by various stakeholders.
+
+          - Development and improvement of Natural Language Processing models and pipelines
+          - Introduce a microservice architecture, based on Kubernetes
+          - Joint lead of the R&D team
+          - Personal skills training in the _Leadership Development Programme_
 
       - layout: left
         title: UKP Lab, TU Darmstadt <img src="https://www.informatik.tu-darmstadt.de/media/ukp/logo/ukp_logo.png" alt="UKP Lab Logo" height=50>
