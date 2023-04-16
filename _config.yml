@@ -68,7 +68,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Netherlands eScience Center <img src="images/esciencecenter.png" alt="UKP Lab Logo" height=30>
+        title: Netherlands eScience Center <img src="images/esciencecenter.png" alt="eScience Center Logo" height=30 title="NL eScience Center">
         link: www.esciencecenter.nl
         # link_text: boringcompany.com
         sub_title: Research Software Engineer
@@ -150,6 +150,39 @@ content:
           - Core developer of [DKPro](https://dkpro.github.io/), the lab's own NLP framework
           - Supervision of Bachelor and Master theses, student assistants
           - Research topics: deep learning, language modelling, topic modelling, distributed computing
+
+      - layout: left
+        title: <img src="https://www.ids-mannheim.de/typo3conf/ext/ids_site/Resources/Public/Images/logo-ids-small.svg" alt="IDS Logo" height=50 title="Institut für Deutsche Sprache">
+        link: https://www.ids-mannheim.de/
+        # link_text: boringcompany.com
+        sub_title: Research Software Engineer
+        caption: November 2011 - May 2013
+        quote: >
+          The Institute for the German Language
+        description: | # this will include new lines to allow paragraphs
+            - Core developer in the KorAP project, a linguistic search engine for text corpora
+            - System architecture, data modelling, query language design, network and storage engineering 
+
+
+      - layout: left
+        title: <img src="https://www.linux-magazin.de/wp-content/uploads/2017/11/linux-magazin-logo.png" alt="Linux-Magazin Logo" height=50 title="Linux-Magazin">
+        link: https://www.linux-magazin.de/
+        # link_text: boringcompany.com
+        sub_title: Tech Writer, Editor, Author
+        caption: 2003 - 2014
+        quote: >
+          Europe's Oldest Magazine for Linux and Open-Source Professionals (since 1995)
+        description: | # this will include new lines to allow paragraphs
+            I worked for the German and international issues of the Linux Magazine, as well as other publications,
+            interchangeably as a (staff) editor and a freelancer.
+            The company allowed me to follow a journalistic apprenticeship while working as a writer and editor.
+            I later helped building up the newly founded [_Admin-Magazin_](https://www.admin-magazin.de/),
+            and worked for the English and Spanish issues of the magazine.
+
+            - Authoring and editorial supervision of external authors
+            - Member/lead of the _Software & Programming_ department
+            - Coordination between the various German and international publications (_LinuxUser_, _EasyLinux_, _Admin-Magazin_)
+            - Software development for internal software
 
 
   - title: Education # Title for the section
