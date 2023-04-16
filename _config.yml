@@ -192,11 +192,12 @@ content:
         title: University of Edinburgh <img src="https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png" alt="University of Edinburgh Logo" height=50>
         caption: 2009 - 2010
         sub_title: MSc Speech & Language Processing
-        link: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=290
+        link: https://www.ed.ac.uk/
         link_text: www.ed.ac.uk
-        # quote: >
+        quote: >
+          Europe's highest-ranked university for Natural Language Processing research end education.
         description: | # this will include new lines to allow paragraphs          
-          This programme combines elements of linguistics, artificial intelligence, computer science, and engineering and is taught by leading researchers from Linguistics & English Language, the Centre for Speech Technology Research, and the School of Informatics.
+          The Speech & Language Processing programme combines elements of linguistics, artificial intelligence, computer science, and engineering and is taught by leading researchers from Linguistics & English Language, the Centre for Speech Technology Research, and the School of Informatics.
 
       - layout: left
         title: University of Heidelberg <img src="https://backend.uni-heidelberg.de/sites/default/files/site_logo/inverse/logo_1.svg" alt="University Heidelberg Logo" height=50>
