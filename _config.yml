@@ -81,6 +81,22 @@ content:
             - [Leveraging AI for HTR post-correction](https://research-software-directory.org/projects/lahter):
             development and application of NLP and machine learning for improving digitized handwritten texts , within the [Globalise project](https://globalise.huygens.knaw.nl/).
 
+      - layout: left
+        title: <img src="https://www.wizenoze.com/wp-content/uploads/2021/11/logo.svg" alt="Wizenoze Logo" height=30 title="Wizenoze">
+        link: www.wizenoze.com
+        # link_text: boringcompany.com
+        sub_title: Senior NLP Research Software Engineer
+        caption: March 2021 - October 2022
+        quote: >
+          Delivering educational content that is trustworthy
+
+        description: | # this will include new lines to allow paragraphs
+          As a member of the Research and Development team, I was responsible for:
+
+          - Development of a Neural Search Engine for educational purposes
+          - Backend software architecture, design and implementation
+          - Supervision of Bachelor and Master theses and internships
+
 
       - layout: left
         title: UKP Lab, TU Darmstadt <img src="https://www.informatik.tu-darmstadt.de/media/ukp/logo/ukp_logo.png" alt="UKP Lab Logo" height=50>
