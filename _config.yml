@@ -51,16 +51,18 @@ about_content: | # this will include new lines to allow paragraphs
   I have been a research software engineer for many years in academic institutions and industry.
   That means I bring state-of-the-art technology from <mark>Natural Language Processing</mark>, Machine Learning, and <mark>Deep Learning</mark>
   to practical use.
-  This implies developing software by highest standards, tailored to the needs of users and other stakeholders,
-  including requirements analysis, implementation, and deployment.
 
   - Defining problems and possible solutions in close communication
   - Agile development approach
   - Advanced <mark>Artificial Intelligence</mark> solutions, scientifically grounded
-  - Build what is needed, re-use what exists
-  - Cloud and system engineering (AWS, Linux etc.), open-source software.
+  - Software development by hightest quality standards
+  - Cloud and system engineering (AWS, Linux etc.), open-source software
+  - Inter-disciplinary research and technology development
 
-  
+  I have been consulting progressive projects such as the [Center for the Advancement of Infrastructural Imagination (CAII)](https://infra-imagination.org/) and [The Syllabus](https://www.the-syllabus.com/).
+  I'm always interested in discussing other ideas and projects around information retrieval and search, language and linguistics, knowledge and information, and artificial intelligence!
+
+
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -74,8 +76,11 @@ content:
         quote: >
           Academic research, powered by pioneering software
         description: | # this will include new lines to allow paragraphs
-            Lead engineer in research projects:
-            - [Semantics of Sustainability](https://research-software-directory.org/projects/the-semantics-of-sustainability):
+          As part of the national research infrastructure, The Netherlands eScience Center builds and applies software to enhance the use of computing and digital technologies in academic research.
+          As a member of the Social Sciences & Humanities section, I focus on software development that facilitates the use of state-of-the-art technology for research projects in those disciplines.
+          
+          I am currently the lead engineer of these research projects:
+            - [The Semantics of Sustainability](https://research-software-directory.org/projects/the-semantics-of-sustainability):
             development and application of <mark>large language models (LLMs)</mark>, incorporating temporal information
             - [Leveraging AI for HTR post-correction](https://research-software-directory.org/projects/lahter):
             development and application of NLP and machine learning for improving digitized handwritten texts , within the [Globalise project](https://globalise.huygens.knaw.nl/).
@@ -90,7 +95,7 @@ content:
           Delivering educational content that is trustworthy
 
         description: | # this will include new lines to allow paragraphs
-          As a member of the Research and Development team, I was responsible for:
+          As a member of the Research and Development team, I was responsible for, among others:
 
           - Development of a Neural Search Engine for educational purposes
           - Backend software architecture, design and implementation
@@ -100,24 +105,23 @@ content:
       - layout: left
         title: <img src="https://static.wixstatic.com/media/4f8123_1d56194d420648ec907078f5fc83ade1~mv2.png/v1/crop/x_0,y_54,w_4420,h_772/fill/w_336,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20blue.png" alt="Zeta Alpha Logo" height=30 title="Zeta Alpha">
         link: https://www.zeta-alpha.com/
-        # link_text: boringcompany.com
-        sub_title: Senior NLP Research Software Engineer
+        link_text: www.zeta-alpha.com
+        sub_title: Lead/Senior NLP Research Software Engineer
         caption: February 2020 - March 2021
         quote: >
           A smarter way to discover and organize knowledge
 
         description: | # this will include new lines to allow paragraphs
-          I was part of the early team of the newly founded research start-up.
-          Tasks included:
+          I was part of the early team of the newly founded research start-up striving to become the best Neural Discovery Platform for AI and beyond.
+          Tasks and activities included:
 
-          - Architecture, research, development for a (neural) search and recommendations platform
+          - Architecture, research, development for a (neural) search and recommendations platform (deep learning)
           - Service-based backend design and development, DevOps/MLOps
-          - Student intern supervision
-
+          - Agile software development and team coordination
 
       - layout: left
         title: <img src="https://textkernel.careers/wp-content/themes/work-at-textkernel/images/textkernel_logo_new.png" alt="Textkernel Logo" height=30 title="Textkernel">
-        link: https://www.textkernel.com/
+        link: www.textkernel.com
         # link_text: boringcompany.com
         sub_title: Lead NLP Research Software Engineer
         caption: January 2017 - December 2019
@@ -125,9 +129,10 @@ content:
           Machine Intelligence Connecting People and Jobs
 
         description: | # this will include new lines to allow paragraphs
-          In my first job outside the world of academic research, I learned to handle time constraints, team management, and requirements by various stakeholders.
+          In my first long-time job in a company, I learned to apply state-of-the-art research from academia while
+          handeling time constraints, team management, and requirements by various stakeholders.
 
-          - Development and improvement of Natural Language Processing models and pipelines
+          - Development and improvement of specific Natural Language Processing models and pipelines
           - Introduce a microservice architecture, based on Kubernetes
           - Joint lead of the R&D team
           - Personal skills training in the _Leadership Development Programme_
@@ -137,7 +142,7 @@ content:
 
         quote: >
           Ubiquituous Knowledge Processing Lab, Technical University Darmstadt
-        link: https://www.informatik.tu-darmstadt.de/ukp/
+        link: www.informatik.tu-darmstadt.de/ukp/
         caption: May 2014 - December 2016
         sub_title: Research Software Engineer, PhD candidate
         description: |
@@ -151,7 +156,7 @@ content:
 
       - layout: left
         title: <img src="https://www.ids-mannheim.de/typo3conf/ext/ids_site/Resources/Public/Images/logo-ids-small.svg" alt="IDS Logo" height=50 title="Institut für Deutsche Sprache">
-        link: https://www.ids-mannheim.de/
+        link: www.ids-mannheim.de
         # link_text: boringcompany.com
         sub_title: Research Software Engineer
         caption: November 2011 - May 2013
@@ -164,7 +169,7 @@ content:
 
       - layout: left
         title: <img src="https://www.linux-magazin.de/wp-content/uploads/2017/11/linux-magazin-logo.png" alt="Linux-Magazin Logo" height=50 title="Linux-Magazin">
-        link: https://www.linux-magazin.de/
+        link: www.linux-magazin.de
         # link_text: boringcompany.com
         sub_title: Tech Writer, Editor, Author
         caption: 2003 - 2014
@@ -201,7 +206,7 @@ content:
         title: University of Heidelberg <img src="https://backend.uni-heidelberg.de/sites/default/files/site_logo/inverse/logo_1.svg" alt="University Heidelberg Logo" height=50>
         caption: 2006 - 2009
         sub_title: B.A. Computational Linguistics, Applied Computer Science
-        link: https://www.uni-heidelberg.de/
+        link: www.uni-heidelberg.de
         quote: >
           Germany’s oldest university and one of the strongest research universities in all of Europe.
         description: | # this will include new lines to allow paragraphs         
