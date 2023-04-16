@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Carsten Schnober
-title: Senior Research Software Engineer (Natural Language Processing)
+title: Natural Language Processing Researcher & Experienced Software Engineer
 email: carschno@gmail.com
 website: carschno.github.io
 
@@ -70,7 +70,7 @@ content:
         title: Netherlands eScience Center <img src="images/esciencecenter.png" alt="UKP Lab Logo" height=30>
         link: www.esciencecenter.nl
         # link_text: boringcompany.com
-        sub_title: Research Software Engineer Social Sciences & Humanities
+        sub_title: Research Software Engineer
         caption: October 2022 - Present
         quote: >
           Academic research, powered by pioneering software
@@ -88,9 +88,17 @@ content:
         quote: >
           Ubiquituous Knowledge Processing Lab, Technical University Darmstadt
         link: https://www.informatik.tu-darmstadt.de/ukp/
-        caption: 2014 - 2016
+        caption: May 2014 - December 2016
         sub_title: Research Software Engineer, PhD candidate
-        description:
+        description: |
+          As a Research Engineer, I worked on academic research in the field of Natural Language Processing and Machine Learning,
+          focusing on the upcoming trend towards Deep Learning techniques.
+          
+          - Lead engineer in the [_Welt der Kinder_ project](http://welt-der-kinder.gei.de/)
+          - Core developer of [DKPro](https://dkpro.github.io/), the lab's own NLP framework
+          - Supervision of Bachelor and Master theses, student assistants
+          - Research topics: deep learning, language modelling, topic modelling, distributed computing
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
