@@ -187,6 +187,9 @@ content:
             - Coordination between the various German and international publications (_LinuxUser_, _EasyLinux_, _Admin-Magazin_)
             - Software development for internal software
 
+            Links to my articles in the [Linux Magazine (English)](https://www.linux-magazine.com/content/search?SearchText=Carsten+Schnober&x=0&y=0),
+            [Linux-Magazin (German)](https://www.linux-magazin.de/?s=carsten%20schnober), [LinuxUser (German)](https://www.linux-community.de/?s=Carsten+Schnober),
+            [Admin-Magazin (German)](https://www.admin-magazin.de/content/search?SearchText=Carsten+Schnober&x=0&y=0).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
