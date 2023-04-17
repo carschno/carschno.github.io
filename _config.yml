@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a member of the Research and Development team, I was responsible for, among others:
 
-          - Development of a Neural Search Engine for educational purposes
+          - Development of a Neural Search Engine for educational purposes (Semantic Search)
           - Backend software architecture, design and implementation
           - Supervision of Bachelor and Master theses and internships
 
@@ -123,7 +123,7 @@ content:
         title: <img src="https://textkernel.careers/wp-content/themes/work-at-textkernel/images/textkernel_logo_new.png" alt="Textkernel Logo" height=30 title="Textkernel">
         link: www.textkernel.com
         # link_text: boringcompany.com
-        sub_title: Lead NLP Research Software Engineer
+        sub_title: NLP Research Software Engineer, Team Lead
         caption: January 2017 - December 2019
         quote: >
           Machine Intelligence Connecting People and Jobs
